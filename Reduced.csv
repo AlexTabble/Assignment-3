@@ -1,0 +1,282 @@
+,Generation,Employment Status,Level of Education,Brand Loyalty,Empathy Rating,Convenience Rating,Price Sensitivity Rating,Environment Rating,Quality Rating,Trust Rating,Value Rating,IntentionRating,Retention,Recommendation Rating
+0,Gen X,Employed,Degree,Somewhat Unloyal,3.25,2.6666666666666665,2.5,3.0,3.5,3.0,3.3333333333333335,3.5,Probably Return,4
+1,Boomer,Employed,Degree,Somewhat Loyal,3.0,4.0,2.5,3.1666666666666665,2.5,2.8333333333333335,2.3333333333333335,4.0,Probably Return,4
+2,Gen X,Unemployed,Basic Education,Somewhat Unloyal,3.0,3.3333333333333335,3.5,2.8333333333333335,3.25,3.0,2.0,3.0,Probably Return,3
+3,Millenial,Employed,Diploma,Unsure,3.0,2.6666666666666665,4.5,3.1666666666666665,3.0,2.6666666666666665,2.0,3.5,Unsure,4
+4,Gen Z,Unemployed,Basic Education,Somewhat Loyal,2.75,3.3333333333333335,1.5,2.8333333333333335,3.0,3.0,2.6666666666666665,2.5,Probably No Return,3
+5,Gen Z,Employed,Degree,Somewhat Unloyal,3.0,2.0,3.5,2.5,3.25,3.1666666666666665,2.6666666666666665,4.0,Probably Return,4
+6,Boomer,Unemployed,No Formal Education,Unsure,3.75,2.3333333333333335,3.5,3.3333333333333335,2.0,3.1666666666666665,2.0,1.5,No Return,2
+7,Millenial,Unemployed,No Formal Education,Completely Loyal,3.0,3.0,3.5,2.6666666666666665,3.0,3.3333333333333335,3.0,2.0,Probably No Return,2
+8,Gen Z,Employed,Diploma,Unsure,4.0,2.3333333333333335,3.0,3.0,2.5,3.0,4.0,4.5,Probably Return,4
+9,Gen Z,Employed,Diploma,Somewhat Loyal,3.0,3.3333333333333335,2.5,2.5,3.25,3.6666666666666665,4.0,5.0,Will Return,5
+10,Gen Z,Employed,Basic Education,Completely Unloyal,2.0,2.6666666666666665,1.0,1.6666666666666667,1.75,1.1666666666666667,3.6666666666666665,5.0,Probably Return,5
+11,Gen Z,Unemployed,Basic Education,Unsure,3.0,3.6666666666666665,2.0,3.6666666666666665,5.0,3.5,3.3333333333333335,4.0,Probably Return,4
+12,Gen Z,Unemployed,Basic Education,Somewhat Unloyal,3.25,2.6666666666666665,3.5,3.0,3.5,2.8333333333333335,3.0,4.5,Probably Return,4
+13,Gen X,Employed,Degree,Unsure,3.25,2.6666666666666665,4.0,3.1666666666666665,3.25,3.3333333333333335,3.6666666666666665,4.0,Probably Return,4
+14,Gen Z,Unemployed,Postgraduate,Somewhat Loyal,2.0,3.0,3.0,3.5,3.0,3.0,2.6666666666666665,4.0,Probably Return,4
+15,Gen Z,Employed,Diploma,Somewhat Loyal,2.75,2.3333333333333335,1.5,2.6666666666666665,2.25,3.8333333333333335,2.0,2.0,Probably No Return,2
+16,Gen X,Employed,Diploma,Completely Unloyal,2.75,1.6666666666666667,1.0,2.8333333333333335,1.25,3.0,1.6666666666666667,3.0,Unsure,3
+17,Gen Z,Unemployed,Basic Education,Somewhat Loyal,4.0,3.3333333333333335,1.5,2.5,1.5,4.166666666666667,2.0,3.5,Probably Return,3
+18,Boomer,Unemployed,No Formal Education,Somewhat Unloyal,4.0,3.6666666666666665,2.0,4.333333333333333,4.0,3.1666666666666665,4.0,4.0,Will Return,5
+19,Gen X,Employed,Degree,Somewhat Loyal,5.0,5.0,4.0,5.0,5.0,5.0,4.0,4.5,Will Return,5
+20,Gen Z,Employed,Degree,Completely Unloyal,3.0,4.0,1.0,3.1666666666666665,3.0,3.0,3.3333333333333335,4.0,Probably Return,4
+21,Gen Z,Unemployed,Basic Education,Completely Loyal,5.0,5.0,5.0,4.0,4.0,5.0,4.0,4.0,Probably Return,4
+22,Gen Z,Unemployed,Basic Education,Unsure,3.75,5.0,3.0,5.0,5.0,5.0,2.3333333333333335,3.0,Unsure,3
+23,Gen X,Unemployed,Degree,Completely Unloyal,1.0,1.0,1.0,1.6666666666666667,1.0,1.0,1.0,1.5,No Return,1
+24,Gen Z,Employed,Degree,Completely Loyal,4.25,4.0,3.5,2.3333333333333335,2.5,2.3333333333333335,2.0,4.0,Probably Return,4
+25,Gen Z,Unemployed,No Formal Education,Somewhat Loyal,3.5,4.666666666666667,3.5,4.333333333333333,4.75,5.0,4.666666666666667,4.0,Probably Return,4
+26,Gen Z,Employed,Basic Education,Somewhat Loyal,3.75,4.666666666666667,4.0,4.166666666666667,4.75,4.666666666666667,4.333333333333333,4.0,Will Return,4
+27,Boomer,Employed,Basic Education,Somewhat Loyal,3.5,4.666666666666667,2.5,4.0,4.5,4.833333333333333,5.0,5.0,Will Return,5
+28,Gen Z,Unemployed,Basic Education,Completely Loyal,2.0,4.666666666666667,1.5,3.3333333333333335,4.5,4.166666666666667,4.333333333333333,5.0,Will Return,5
+29,Gen X,Employed,Diploma,Somewhat Unloyal,3.75,4.0,3.0,3.1666666666666665,3.25,3.8333333333333335,3.0,3.0,Probably Return,3
+30,Millenial,Employed,Basic Education,Somewhat Unloyal,3.25,3.3333333333333335,4.0,3.3333333333333335,3.0,2.5,2.6666666666666665,4.0,Unsure,4
+31,Gen X,Employed,Diploma,Somewhat Loyal,4.0,3.3333333333333335,4.0,3.3333333333333335,3.75,4.333333333333333,4.0,4.0,Probably Return,4
+32,Gen X,Employed,Diploma,Unsure,3.0,4.0,2.0,2.6666666666666665,3.75,3.0,3.3333333333333335,4.0,Probably Return,4
+33,Boomer,Unemployed,Basic Education,Somewhat Loyal,4.0,4.0,3.0,4.0,4.5,4.5,4.0,4.5,Probably Return,4
+34,Millenial,Unemployed,Basic Education,Completely Loyal,5.0,5.0,4.0,4.833333333333333,5.0,5.0,5.0,5.0,Will Return,5
+35,Gen Z,Employed,Basic Education,Somewhat Unloyal,2.75,3.0,2.5,2.3333333333333335,3.5,3.0,2.3333333333333335,3.0,Unsure,3
+36,Boomer,Unemployed,No Formal Education,Somewhat Loyal,4.5,4.333333333333333,3.0,4.333333333333333,5.0,4.333333333333333,4.0,4.0,Probably Return,4
+37,Gen Z,Unemployed,Basic Education,Completely Unloyal,2.75,4.333333333333333,1.5,2.8333333333333335,3.75,3.3333333333333335,3.0,1.5,No Return,2
+38,Gen Z,Unemployed,Basic Education,Completely Loyal,3.0,5.0,5.0,5.0,5.0,5.0,4.666666666666667,5.0,Will Return,5
+39,Gen Z,Unemployed,No Formal Education,Somewhat Unloyal,2.5,3.6666666666666665,5.0,3.5,4.25,3.5,3.6666666666666665,4.0,Probably Return,4
+40,Boomer,Unemployed,Basic Education,Somewhat Unloyal,3.5,4.333333333333333,3.0,4.333333333333333,3.75,3.5,3.3333333333333335,3.5,Probably Return,4
+41,Gen Z,Employed,Basic Education,Unsure,4.0,3.6666666666666665,3.5,3.1666666666666665,4.0,3.6666666666666665,3.6666666666666665,4.0,Probably Return,4
+42,Gen Z,Unemployed,Diploma,Somewhat Loyal,2.5,3.0,4.0,2.0,2.25,2.5,3.0,3.5,Probably Return,3
+43,Boomer,Employed,Basic Education,Somewhat Loyal,4.5,4.666666666666667,5.0,4.166666666666667,4.75,4.666666666666667,4.666666666666667,5.0,Will Return,5
+44,Boomer,Employed,Degree,Somewhat Loyal,3.0,4.0,2.5,3.1666666666666665,2.5,2.8333333333333335,2.3333333333333335,3.0,Unsure,3
+45,Gen Z,Employed,Basic Education,Completely Unloyal,2.0,2.6666666666666665,1.0,1.6666666666666667,1.75,1.1666666666666667,3.6666666666666665,4.0,Probably Return,4
+46,Gen Z,Employed,Diploma,Somewhat Loyal,3.0,3.3333333333333335,2.5,2.5,3.25,3.6666666666666665,4.0,4.0,Probably Return,4
+47,Boomer,Unemployed,No Formal Education,Somewhat Unloyal,4.0,3.6666666666666665,2.0,4.333333333333333,4.0,3.1666666666666665,4.0,4.0,Probably Return,4
+48,Gen Z,Unemployed,Basic Education,Somewhat Loyal,4.0,3.3333333333333335,1.5,2.5,1.5,4.166666666666667,2.0,2.5,Unsure,2
+49,Gen X,Employed,Diploma,Completely Unloyal,2.75,1.6666666666666667,1.0,2.8333333333333335,1.25,3.0,1.6666666666666667,2.0,Probably No Return,2
+50,Gen Z,Employed,Diploma,Somewhat Loyal,2.75,2.3333333333333335,1.5,2.6666666666666665,2.25,3.8333333333333335,2.0,3.0,Unsure,3
+51,Gen Z,Employed,Diploma,Unsure,4.0,2.3333333333333335,3.0,3.0,2.5,3.0,4.0,3.0,Probably No Return,3
+52,Millenial,Unemployed,No Formal Education,Completely Loyal,3.0,3.0,3.5,2.6666666666666665,3.0,3.3333333333333335,3.0,4.0,Probably Return,4
+53,Boomer,Unemployed,No Formal Education,Unsure,3.75,2.3333333333333335,3.5,3.3333333333333335,2.0,3.1666666666666665,2.0,4.0,Unsure,4
+54,Gen Z,Employed,Degree,Somewhat Unloyal,3.0,2.0,3.5,2.5,3.25,3.1666666666666665,2.6666666666666665,4.0,Probably Return,4
+55,Gen Z,Unemployed,Basic Education,Somewhat Loyal,2.75,3.3333333333333335,1.5,2.8333333333333335,3.0,3.0,2.6666666666666665,2.0,Probably No Return,2
+56,Millenial,Employed,Diploma,Unsure,3.0,2.6666666666666665,4.5,3.1666666666666665,3.0,2.6666666666666665,2.0,3.0,Unsure,3
+57,Gen X,Employed,Degree,Somewhat Unloyal,3.25,2.6666666666666665,2.5,3.0,3.5,3.0,3.3333333333333335,4.0,Probably Return,4
+58,Gen Z,Unemployed,Postgraduate,Somewhat Loyal,2.0,3.0,3.0,3.5,3.0,3.0,2.6666666666666665,4.5,Will Return,5
+59,Gen X,Employed,Degree,Unsure,3.25,2.6666666666666665,4.0,3.1666666666666665,3.25,3.3333333333333335,3.6666666666666665,5.0,Will Return,5
+60,Gen Z,Unemployed,Basic Education,Unsure,3.0,3.6666666666666665,2.0,3.6666666666666665,5.0,3.5,3.3333333333333335,3.0,Probably No Return,3
+61,Gen Z,Unemployed,Basic Education,Somewhat Unloyal,3.25,2.6666666666666665,3.5,3.0,3.5,2.8333333333333335,3.0,4.0,Unsure,4
+62,Gen X,Unemployed,Basic Education,Somewhat Unloyal,3.0,3.3333333333333335,3.5,2.8333333333333335,3.25,3.0,2.0,3.0,Unsure,3
+63,Gen Z,Employed,Basic Education,Unsure,2.5,5.0,3.0,3.5,3.25,3.1666666666666665,3.6666666666666665,4.0,Probably Return,4
+64,Gen Z,Unemployed,Basic Education,Completely Loyal,2.0,4.666666666666667,1.5,3.3333333333333335,4.5,4.166666666666667,4.0,5.0,Will Return,5
+65,Boomer,Employed,Basic Education,Somewhat Loyal,3.5,4.666666666666667,2.5,4.0,4.5,4.833333333333333,5.0,5.0,Will Return,5
+66,Gen Z,Employed,Basic Education,Somewhat Loyal,3.75,4.666666666666667,4.0,4.166666666666667,4.75,4.666666666666667,4.333333333333333,5.0,Will Return,5
+67,Gen Z,Unemployed,No Formal Education,Somewhat Loyal,3.5,4.666666666666667,3.5,4.333333333333333,4.75,5.0,4.666666666666667,5.0,Will Return,5
+68,Gen Z,Employed,Degree,Completely Loyal,4.25,4.0,3.5,2.3333333333333335,2.5,2.3333333333333335,2.0,4.0,Probably Return,4
+69,Gen X,Employed,Degree,Completely Unloyal,1.0,1.0,1.0,1.6666666666666667,1.0,1.0,1.0,1.0,No Return,1
+70,Gen Z,Unemployed,Basic Education,Unsure,3.75,5.0,3.0,5.0,5.0,5.0,2.3333333333333335,3.0,Unsure,3
+71,Gen Z,Unemployed,Basic Education,Completely Loyal,5.0,5.0,5.0,4.0,4.0,5.0,4.0,4.0,Probably Return,4
+72,Gen Z,Employed,Degree,Completely Unloyal,3.0,4.0,1.0,3.1666666666666665,3.0,3.0,3.3333333333333335,4.0,Probably Return,4
+73,Gen X,Employed,Degree,Somewhat Loyal,5.0,5.0,4.0,5.0,5.0,5.0,4.0,4.0,Probably Return,4
+74,Gen X,Employed,Degree,Completely Unloyal,2.75,5.0,1.5,4.0,3.5,3.8333333333333335,4.333333333333333,5.0,Will Return,5
+75,Gen Z,Unemployed,Basic Education,Unsure,3.0,4.666666666666667,3.5,3.6666666666666665,4.5,4.166666666666667,3.0,4.0,Unsure,4
+76,Gen Z,Unemployed,Diploma,Somewhat Unloyal,3.25,3.3333333333333335,3.0,3.8333333333333335,4.5,4.5,3.3333333333333335,3.5,Unsure,4
+77,Gen Z,Employed,Basic Education,Completely Unloyal,3.0,1.6666666666666667,2.5,2.3333333333333335,2.5,2.5,3.0,3.0,Probably No Return,3
+78,Gen Z,Unemployed,Basic Education,Completely Unloyal,4.25,4.333333333333333,2.5,4.333333333333333,4.5,4.166666666666667,3.0,3.0,Unsure,3
+79,Gen Z,Employed,Diploma,Unsure,3.75,2.3333333333333335,3.5,2.1666666666666665,4.0,3.6666666666666665,4.0,4.0,Probably Return,4
+80,Gen Z,Unemployed,Basic Education,Somewhat Unloyal,2.0,3.6666666666666665,3.5,4.333333333333333,4.75,3.3333333333333335,3.6666666666666665,4.0,Probably Return,4
+81,Gen X,Employed,Diploma,Somewhat Unloyal,3.75,4.0,3.0,3.1666666666666665,3.25,3.8333333333333335,3.0,3.0,Unsure,3
+82,Gen X,Unemployed,Basic Education,Completely Unloyal,3.75,5.0,1.0,2.6666666666666665,2.25,1.8333333333333333,3.3333333333333335,3.0,Probably No Return,3
+83,Millenial,Unemployed,Basic Education,Somewhat Unloyal,1.5,1.6666666666666667,1.0,1.6666666666666667,1.5,2.5,2.3333333333333335,3.0,Unsure,3
+84,Millenial,Employed,Basic Education,Unsure,4.0,3.6666666666666665,3.5,3.8333333333333335,4.75,4.0,4.333333333333333,5.0,Will Return,5
+85,Millenial,Employed,Degree,Somewhat Loyal,4.0,4.333333333333333,2.5,3.1666666666666665,2.25,3.0,3.3333333333333335,4.0,Probably Return,4
+86,Boomer,Unemployed,Basic Education,Completely Unloyal,4.75,4.666666666666667,1.0,5.0,4.25,5.0,4.666666666666667,2.5,Probably No Return,2
+87,Millenial,Employed,Basic Education,Somewhat Loyal,4.0,4.0,3.5,3.3333333333333335,4.0,3.0,4.0,4.0,Probably Return,4
+88,Millenial,Employed,Basic Education,Somewhat Loyal,3.5,5.0,4.0,2.8333333333333335,3.0,3.0,2.6666666666666665,4.0,Probably Return,4
+89,Gen Z,Employed,Basic Education,Completely Unloyal,1.5,3.3333333333333335,1.0,2.5,2.0,3.1666666666666665,4.666666666666667,2.0,Probably No Return,2
+90,Gen X,Employed,Basic Education,Somewhat Loyal,3.75,4.666666666666667,4.0,3.6666666666666665,4.0,4.333333333333333,4.666666666666667,5.0,Will Return,5
+91,Gen Z,Employed,Basic Education,Somewhat Loyal,4.75,4.666666666666667,2.5,4.5,3.5,3.8333333333333335,3.3333333333333335,4.0,Probably Return,4
+92,Millenial,Employed,Basic Education,Completely Unloyal,3.0,2.0,2.5,2.3333333333333335,3.75,2.8333333333333335,3.0,3.0,Unsure,3
+93,Gen Z,Unemployed,Diploma,Somewhat Loyal,4.25,4.666666666666667,4.0,4.333333333333333,4.5,4.333333333333333,4.333333333333333,5.0,Will Return,5
+94,Millenial,Unemployed,Diploma,Completely Loyal,4.25,5.0,4.0,5.0,4.5,4.5,4.333333333333333,5.0,Will Return,5
+95,Gen X,Employed,Basic Education,Somewhat Loyal,3.25,3.3333333333333335,4.0,4.166666666666667,4.0,4.666666666666667,5.0,5.0,Will Return,5
+96,Gen X,Employed,Diploma,Somewhat Unloyal,4.0,4.333333333333333,2.5,1.6666666666666667,4.0,3.5,3.3333333333333335,4.0,Probably Return,4
+97,Gen X,Unemployed,Diploma,Somewhat Loyal,4.0,4.666666666666667,3.0,3.8333333333333335,4.0,4.0,4.0,4.0,Probably Return,4
+98,Gen Z,Unemployed,Basic Education,Somewhat Unloyal,4.5,4.333333333333333,2.0,4.5,5.0,4.0,5.0,5.0,Will Return,5
+99,Gen X,Unemployed,No Formal Education,Somewhat Loyal,4.0,4.666666666666667,1.0,4.0,4.0,3.0,4.0,5.0,Will Return,5
+100,Gen X,Employed,Diploma,Unsure,3.5,3.6666666666666665,2.0,4.0,4.0,3.3333333333333335,3.3333333333333335,4.0,Probably Return,4
+101,Gen Z,Unemployed,Diploma,Somewhat Unloyal,4.25,4.333333333333333,2.0,4.0,4.0,3.6666666666666665,2.3333333333333335,3.5,Unsure,3
+102,Millenial,Employed,Basic Education,Completely Unloyal,4.5,4.0,1.0,3.6666666666666665,4.0,3.6666666666666665,3.0,4.0,Probably Return,4
+103,Gen Z,Unemployed,No Formal Education,Somewhat Loyal,3.0,3.3333333333333335,3.0,3.1666666666666665,2.75,3.3333333333333335,3.3333333333333335,4.0,Probably Return,4
+104,Gen Z,Employed,Diploma,Somewhat Loyal,3.25,3.6666666666666665,4.0,3.6666666666666665,3.0,2.8333333333333335,3.0,4.0,Probably Return,4
+105,Gen Z,Unemployed,Degree,Somewhat Loyal,3.5,3.0,3.5,3.0,3.5,3.3333333333333335,3.3333333333333335,5.0,Will Return,5
+106,Gen Z,Employed,Basic Education,Somewhat Loyal,4.25,5.0,4.0,4.833333333333333,4.25,4.333333333333333,4.0,4.5,Probably Return,5
+107,Millenial,Unemployed,No Formal Education,Somewhat Loyal,4.5,4.0,5.0,4.5,4.75,4.666666666666667,4.0,5.0,Will Return,5
+108,Boomer,Employed,Basic Education,Somewhat Loyal,4.25,5.0,4.5,3.8333333333333335,4.5,4.5,4.333333333333333,5.0,Will Return,5
+109,Boomer,Unemployed,No Formal Education,Somewhat Unloyal,4.0,3.6666666666666665,2.0,4.333333333333333,4.0,3.1666666666666665,4.0,4.0,Will Return,5
+110,Gen X,Employed,Degree,Somewhat Loyal,5.0,5.0,4.0,5.0,5.0,5.0,4.0,4.5,Will Return,5
+111,Gen Z,Employed,Degree,Completely Unloyal,3.0,4.0,1.0,3.1666666666666665,3.0,3.0,3.3333333333333335,4.0,Probably Return,4
+112,Gen Z,Unemployed,Basic Education,Completely Loyal,5.0,5.0,5.0,4.0,4.0,5.0,4.0,4.0,Probably Return,4
+113,Gen Z,Unemployed,Basic Education,Unsure,3.75,5.0,3.0,5.0,5.0,5.0,2.3333333333333335,3.0,Unsure,3
+114,Gen X,Unemployed,Degree,Completely Unloyal,1.0,1.0,1.0,1.6666666666666667,1.0,1.0,1.0,1.5,No Return,1
+115,Gen Z,Employed,Degree,Completely Loyal,4.25,4.0,3.5,2.3333333333333335,2.5,2.3333333333333335,2.0,4.0,Probably Return,4
+116,Gen Z,Unemployed,No Formal Education,Somewhat Loyal,3.5,4.666666666666667,3.5,4.333333333333333,4.75,5.0,4.666666666666667,4.0,Probably Return,4
+117,Gen Z,Employed,Basic Education,Somewhat Loyal,3.75,4.666666666666667,4.0,4.166666666666667,4.75,4.666666666666667,4.333333333333333,4.0,Will Return,4
+118,Boomer,Employed,Basic Education,Somewhat Loyal,3.5,4.666666666666667,2.5,4.0,4.5,4.833333333333333,5.0,5.0,Will Return,5
+119,Gen Z,Unemployed,Basic Education,Completely Loyal,2.0,4.666666666666667,1.5,3.3333333333333335,4.5,4.166666666666667,4.333333333333333,5.0,Will Return,5
+120,Gen X,Employed,Diploma,Somewhat Unloyal,3.75,4.0,3.0,3.1666666666666665,3.25,3.8333333333333335,3.0,3.0,Probably Return,3
+121,Millenial,Employed,Basic Education,Somewhat Unloyal,3.25,3.3333333333333335,4.0,3.3333333333333335,3.0,2.5,2.6666666666666665,4.0,Unsure,4
+122,Gen X,Employed,Diploma,Somewhat Loyal,4.0,3.3333333333333335,4.0,3.3333333333333335,3.75,4.333333333333333,4.0,4.0,Probably Return,4
+123,Gen X,Employed,Diploma,Unsure,3.0,4.0,2.0,2.6666666666666665,3.75,3.0,3.3333333333333335,4.0,Probably Return,4
+124,Boomer,Unemployed,Basic Education,Somewhat Loyal,4.0,4.0,3.0,4.0,4.5,4.5,4.0,4.5,Probably Return,4
+125,Millenial,Unemployed,Basic Education,Completely Loyal,5.0,5.0,4.0,4.833333333333333,5.0,5.0,5.0,5.0,Will Return,5
+126,Gen Z,Employed,Basic Education,Somewhat Unloyal,2.75,3.0,2.5,2.3333333333333335,3.5,3.0,2.3333333333333335,3.0,Unsure,3
+127,Boomer,Unemployed,No Formal Education,Somewhat Loyal,4.5,4.333333333333333,3.0,4.333333333333333,5.0,4.333333333333333,4.0,4.0,Probably Return,4
+128,Gen Z,Unemployed,Basic Education,Completely Unloyal,2.75,4.333333333333333,1.5,2.8333333333333335,3.75,3.3333333333333335,3.0,1.5,No Return,2
+129,Gen Z,Unemployed,Basic Education,Completely Loyal,3.0,5.0,5.0,5.0,5.0,5.0,4.666666666666667,5.0,Will Return,5
+130,Gen Z,Unemployed,No Formal Education,Somewhat Unloyal,2.5,3.6666666666666665,5.0,3.5,4.25,3.5,3.6666666666666665,4.0,Probably Return,4
+131,Boomer,Unemployed,Basic Education,Somewhat Unloyal,3.5,4.333333333333333,3.0,4.333333333333333,3.75,3.5,3.3333333333333335,3.5,Probably Return,4
+132,Gen Z,Employed,Basic Education,Unsure,4.0,3.6666666666666665,3.5,3.1666666666666665,4.0,3.6666666666666665,3.6666666666666665,4.0,Probably Return,4
+133,Gen Z,Unemployed,Diploma,Somewhat Loyal,2.5,3.0,4.0,2.0,2.25,2.5,3.0,3.5,Probably Return,3
+134,Boomer,Employed,Basic Education,Somewhat Loyal,4.5,4.666666666666667,5.0,4.166666666666667,4.75,4.666666666666667,4.666666666666667,5.0,Will Return,5
+135,Boomer,Employed,Degree,Somewhat Loyal,3.0,4.0,2.5,3.1666666666666665,2.5,2.8333333333333335,2.3333333333333335,3.0,Unsure,3
+136,Gen Z,Employed,Basic Education,Completely Unloyal,2.0,2.6666666666666665,1.0,1.6666666666666667,1.75,1.1666666666666667,3.6666666666666665,4.0,Probably Return,4
+137,Gen Z,Employed,Diploma,Somewhat Loyal,3.0,3.3333333333333335,2.5,2.5,3.25,3.6666666666666665,4.0,4.0,Probably Return,4
+138,Boomer,Unemployed,No Formal Education,Somewhat Unloyal,4.0,3.6666666666666665,2.0,4.333333333333333,4.0,3.1666666666666665,4.0,4.0,Probably Return,4
+139,Gen Z,Unemployed,Basic Education,Somewhat Loyal,4.0,3.3333333333333335,1.5,2.5,1.5,4.166666666666667,2.0,2.5,Unsure,2
+140,Gen X,Employed,Diploma,Completely Unloyal,2.75,1.6666666666666667,1.0,2.8333333333333335,1.25,3.0,1.6666666666666667,2.0,Probably No Return,2
+141,Gen Z,Employed,Diploma,Somewhat Loyal,2.75,2.3333333333333335,1.5,2.6666666666666665,2.25,3.8333333333333335,2.0,3.0,Unsure,3
+142,Gen Z,Employed,Diploma,Unsure,4.0,2.3333333333333335,3.0,3.0,2.5,3.0,4.0,3.0,Probably No Return,3
+143,Millenial,Unemployed,No Formal Education,Completely Loyal,3.0,3.0,3.5,2.6666666666666665,3.0,3.3333333333333335,3.0,4.0,Probably Return,4
+144,Boomer,Unemployed,No Formal Education,Unsure,3.75,2.3333333333333335,3.5,3.3333333333333335,2.0,3.1666666666666665,2.0,4.0,Unsure,4
+145,Gen Z,Unemployed,Diploma,Unsure,3.5,4.666666666666667,4.0,4.0,4.0,4.0,4.333333333333333,4.0,Probably Return,4
+146,Gen Z,Unemployed,Basic Education,Completely Unloyal,2.25,3.3333333333333335,2.0,2.3333333333333335,3.0,3.1666666666666665,3.0,2.0,Probably No Return,2
+147,Gen Z,Employed,Degree,Somewhat Loyal,3.75,3.6666666666666665,3.5,2.6666666666666665,3.25,3.1666666666666665,3.6666666666666665,4.0,Probably Return,4
+148,Millenial,Employed,Degree,Somewhat Loyal,4.5,4.666666666666667,4.0,4.333333333333333,4.0,4.166666666666667,4.0,4.0,Probably Return,4
+149,Gen Z,Unemployed,Basic Education,Unsure,4.5,3.3333333333333335,3.5,3.8333333333333335,4.0,4.0,4.333333333333333,5.0,Will Return,5
+150,Millenial,Employed,Diploma,Unsure,4.75,4.333333333333333,4.0,4.5,4.0,4.5,4.333333333333333,5.0,Probably Return,5
+151,Gen Z,Unemployed,Basic Education,Completely Loyal,4.0,4.0,4.5,4.166666666666667,4.75,4.166666666666667,4.666666666666667,5.0,Will Return,5
+152,Gen Z,Unemployed,Basic Education,Completely Unloyal,2.75,5.0,2.5,3.6666666666666665,4.0,4.0,3.0,3.0,Probably No Return,3
+153,Gen Z,Unemployed,Diploma,Unsure,2.5,4.0,3.0,3.5,3.0,2.3333333333333335,3.3333333333333335,4.0,Will Return,4
+154,Boomer,Employed,No Formal Education,Somewhat Loyal,4.0,4.0,3.0,5.0,4.5,4.333333333333333,4.666666666666667,5.0,Probably Return,5
+155,Millenial,Employed,Basic Education,Completely Loyal,4.0,3.6666666666666665,5.0,4.333333333333333,3.0,4.0,4.0,4.0,Probably Return,4
+156,Millenial,Employed,Diploma,Completely Loyal,3.5,3.6666666666666665,1.0,3.6666666666666665,3.25,3.5,3.3333333333333335,4.0,Probably Return,3
+157,Boomer,Unemployed,Basic Education,Somewhat Loyal,5.0,3.6666666666666665,4.5,3.8333333333333335,4.0,4.0,4.0,3.5,Probably Return,4
+158,Gen Z,Employed,Diploma,Somewhat Unloyal,3.0,4.333333333333333,2.5,3.1666666666666665,4.0,3.8333333333333335,3.3333333333333335,2.0,Unsure,2
+159,Millenial,Employed,Degree,Unsure,3.5,4.0,4.0,3.6666666666666665,3.75,4.333333333333333,4.666666666666667,5.0,Will Return,5
+160,Gen X,Employed,Degree,Completely Unloyal,4.0,4.0,1.0,2.8333333333333335,4.5,4.0,3.3333333333333335,1.0,No Return,1
+161,Gen X,Employed,Diploma,Somewhat Unloyal,4.75,3.6666666666666665,1.0,2.6666666666666665,2.5,2.1666666666666665,3.0,3.0,Unsure,3
+162,Millenial,Employed,Degree,Somewhat Loyal,4.0,5.0,4.0,4.333333333333333,5.0,5.0,4.0,4.0,Probably Return,5
+163,Millenial,Employed,Diploma,Somewhat Loyal,5.0,5.0,5.0,5.0,5.0,4.5,4.333333333333333,5.0,Will Return,5
+164,Millenial,Unemployed,Diploma,Unsure,2.75,5.0,5.0,4.333333333333333,4.75,4.0,5.0,3.0,Unsure,3
+165,Gen Z,Unemployed,Degree,Somewhat Unloyal,3.5,4.0,2.0,3.1666666666666665,3.0,3.3333333333333335,2.3333333333333335,2.0,Probably No Return,2
+166,Millenial,Employed,Diploma,Unsure,3.0,4.333333333333333,3.5,4.0,3.0,3.3333333333333335,3.6666666666666665,3.0,Unsure,3
+167,Gen Z,Unemployed,Basic Education,Completely Loyal,3.5,3.6666666666666665,2.5,3.6666666666666665,3.25,3.6666666666666665,4.0,4.0,Will Return,4
+168,Gen Z,Unemployed,Basic Education,Completely Loyal,4.75,4.666666666666667,5.0,4.833333333333333,5.0,4.833333333333333,4.666666666666667,5.0,Will Return,5
+169,Millenial,Unemployed,Basic Education,Somewhat Loyal,2.0,3.0,4.0,5.0,5.0,5.0,5.0,5.0,Will Return,5
+170,Millenial,Unemployed,Diploma,Somewhat Loyal,3.0,3.0,3.5,3.5,3.0,3.3333333333333335,3.3333333333333335,4.0,Probably Return,4
+171,Millenial,Employed,Basic Education,Completely Unloyal,3.75,4.666666666666667,2.0,3.6666666666666665,3.25,4.166666666666667,3.6666666666666665,1.0,No Return,1
+172,Gen X,Employed,Diploma,Somewhat Loyal,5.0,3.6666666666666665,5.0,3.5,5.0,5.0,3.3333333333333335,3.5,Unsure,3
+173,Gen Z,Employed,Diploma,Completely Loyal,2.75,3.0,1.5,2.6666666666666665,2.25,3.8333333333333335,2.0,3.0,Probably No Return,3
+174,Gen Z,Employed,Diploma,Unsure,4.0,2.3333333333333335,3.0,3.0,2.5,3.0,4.0,3.0,Unsure,2
+175,Millenial,Unemployed,No Formal Education,Completely Loyal,3.0,3.0,3.5,2.6666666666666665,3.0,3.3333333333333335,3.0,4.0,Probably Return,4
+176,Boomer,Unemployed,No Formal Education,Unsure,3.75,2.3333333333333335,3.5,3.3333333333333335,2.0,3.1666666666666665,2.0,4.0,Unsure,4
+177,Gen Z,Employed,Degree,Somewhat Unloyal,3.0,2.0,3.5,2.5,3.25,3.1666666666666665,2.6666666666666665,4.0,Probably Return,4
+178,Gen Z,Unemployed,Basic Education,Somewhat Loyal,2.75,3.3333333333333335,1.5,2.8333333333333335,3.0,3.0,2.6666666666666665,2.0,Probably No Return,2
+179,Millenial,Employed,Diploma,Unsure,3.0,2.6666666666666665,4.5,3.1666666666666665,3.0,2.6666666666666665,2.0,3.0,Unsure,3
+180,Gen X,Employed,Degree,Somewhat Unloyal,3.25,2.6666666666666665,2.5,3.0,3.5,3.0,3.3333333333333335,4.0,Probably Return,4
+181,Gen Z,Unemployed,Postgraduate,Somewhat Loyal,2.0,3.0,3.0,3.5,3.0,3.0,2.6666666666666665,4.5,Will Return,5
+182,Gen X,Employed,Degree,Unsure,3.25,2.6666666666666665,4.0,3.1666666666666665,3.25,3.3333333333333335,3.6666666666666665,5.0,Will Return,5
+183,Gen Z,Unemployed,Basic Education,Unsure,3.0,3.6666666666666665,2.0,3.6666666666666665,5.0,3.5,3.3333333333333335,3.0,Probably No Return,3
+184,Gen Z,Unemployed,Basic Education,Somewhat Unloyal,3.25,2.6666666666666665,3.5,3.0,3.5,2.8333333333333335,3.0,4.0,Unsure,4
+185,Gen X,Unemployed,Basic Education,Somewhat Unloyal,3.0,3.3333333333333335,3.5,2.8333333333333335,3.25,3.0,2.0,3.0,Unsure,3
+186,Boomer,Employed,Basic Education,Unsure,2.5,4.666666666666667,3.0,3.5,3.25,3.1666666666666665,3.6666666666666665,4.0,Probably Return,4
+187,Gen Z,Unemployed,Basic Education,Completely Loyal,2.0,4.333333333333333,1.5,3.3333333333333335,4.5,4.166666666666667,4.0,5.0,Will Return,5
+188,Boomer,Employed,Basic Education,Somewhat Loyal,3.5,4.666666666666667,2.5,4.0,4.5,4.833333333333333,5.0,5.0,Will Return,5
+189,Gen Z,Employed,Basic Education,Somewhat Loyal,3.75,5.0,4.0,4.166666666666667,4.75,4.666666666666667,4.333333333333333,5.0,Will Return,5
+190,Gen Z,Unemployed,No Formal Education,Somewhat Loyal,3.5,4.333333333333333,3.5,4.333333333333333,4.75,5.0,4.666666666666667,5.0,Will Return,5
+191,Gen Z,Employed,Degree,Completely Loyal,4.25,4.0,3.5,2.3333333333333335,2.5,2.3333333333333335,2.0,4.0,Probably Return,4
+192,Gen X,Employed,Degree,Completely Unloyal,1.0,1.0,1.0,1.6666666666666667,1.0,1.0,1.0,1.0,No Return,1
+193,Gen Z,Unemployed,Basic Education,Unsure,3.75,5.0,3.0,5.0,5.0,5.0,2.3333333333333335,3.0,Unsure,3
+194,Gen Z,Unemployed,Basic Education,Completely Loyal,5.0,5.0,5.0,4.0,4.0,5.0,4.0,4.0,Probably Return,4
+195,Gen Z,Employed,Degree,Completely Unloyal,3.0,4.0,1.0,3.1666666666666665,3.0,3.0,3.3333333333333335,4.0,Probably Return,4
+196,Gen X,Employed,Degree,Somewhat Loyal,5.0,5.0,4.0,5.0,5.0,5.0,4.0,4.0,Probably Return,4
+197,Gen X,Employed,Degree,Completely Unloyal,2.75,5.0,1.5,4.0,3.5,3.8333333333333335,4.333333333333333,5.0,Will Return,5
+198,Gen Z,Unemployed,Basic Education,Unsure,3.0,4.666666666666667,3.5,3.6666666666666665,4.5,4.166666666666667,3.0,4.0,Unsure,4
+199,Boomer,Unemployed,Diploma,Somewhat Unloyal,3.25,3.3333333333333335,3.0,3.8333333333333335,4.5,4.5,3.3333333333333335,3.5,Unsure,4
+200,Boomer,Employed,Basic Education,Completely Unloyal,3.0,1.6666666666666667,2.5,2.3333333333333335,2.5,2.5,3.0,3.0,Probably No Return,3
+201,Boomer,Unemployed,Basic Education,Completely Unloyal,4.25,4.333333333333333,2.5,4.333333333333333,4.5,4.166666666666667,3.0,3.0,Unsure,3
+202,Gen Z,Employed,Diploma,Unsure,3.75,2.3333333333333335,3.5,2.1666666666666665,4.0,3.6666666666666665,4.0,4.0,Probably Return,4
+203,Gen Z,Unemployed,Basic Education,Somewhat Unloyal,2.0,3.6666666666666665,3.5,4.333333333333333,4.75,3.3333333333333335,3.6666666666666665,4.0,Probably Return,4
+204,Gen X,Employed,Diploma,Somewhat Unloyal,3.75,4.0,3.0,3.1666666666666665,3.25,3.8333333333333335,3.0,3.0,Unsure,3
+205,Gen X,Unemployed,Basic Education,Completely Unloyal,3.75,5.0,1.0,2.6666666666666665,2.25,1.8333333333333333,3.3333333333333335,3.0,Probably No Return,3
+206,Millenial,Unemployed,Basic Education,Somewhat Unloyal,1.5,1.6666666666666667,1.0,1.6666666666666667,1.5,2.5,2.3333333333333335,3.0,Unsure,3
+207,Millenial,Employed,Basic Education,Unsure,4.0,3.6666666666666665,3.5,3.8333333333333335,4.75,4.0,4.333333333333333,5.0,Will Return,5
+208,Millenial,Employed,Degree,Somewhat Loyal,4.0,4.333333333333333,2.5,3.1666666666666665,2.25,3.0,3.3333333333333335,4.0,Probably Return,4
+209,Boomer,Unemployed,Basic Education,Completely Unloyal,4.75,4.666666666666667,1.0,5.0,4.25,5.0,4.666666666666667,2.5,Probably No Return,2
+210,Millenial,Employed,Basic Education,Somewhat Loyal,4.0,4.0,3.5,3.3333333333333335,4.0,3.0,4.0,4.0,Probably Return,4
+211,Millenial,Employed,Basic Education,Somewhat Loyal,3.5,5.0,4.0,2.8333333333333335,3.0,3.0,2.6666666666666665,4.0,Probably Return,4
+212,Gen Z,Employed,Basic Education,Completely Unloyal,1.5,3.3333333333333335,1.0,2.5,2.0,3.1666666666666665,4.666666666666667,2.0,Probably No Return,2
+213,Gen X,Employed,Basic Education,Somewhat Loyal,3.75,4.666666666666667,4.0,3.6666666666666665,4.0,4.333333333333333,4.666666666666667,5.0,Will Return,5
+214,Gen Z,Employed,Basic Education,Somewhat Loyal,4.75,4.666666666666667,2.5,4.5,3.5,3.8333333333333335,3.3333333333333335,4.0,Probably Return,4
+215,Millenial,Employed,Basic Education,Completely Unloyal,3.0,2.0,2.5,2.3333333333333335,3.75,2.8333333333333335,3.0,3.0,Unsure,3
+216,Gen Z,Unemployed,Diploma,Somewhat Loyal,4.25,4.666666666666667,4.0,4.333333333333333,4.5,4.333333333333333,4.333333333333333,5.0,Will Return,5
+217,Millenial,Unemployed,Diploma,Completely Loyal,4.25,5.0,4.0,5.0,4.5,4.5,4.333333333333333,5.0,Will Return,5
+218,Gen X,Employed,Basic Education,Somewhat Loyal,3.25,3.3333333333333335,4.0,4.166666666666667,4.0,4.666666666666667,5.0,5.0,Will Return,5
+219,Boomer,Employed,Diploma,Somewhat Unloyal,4.0,4.333333333333333,2.5,1.6666666666666667,4.0,3.5,3.3333333333333335,4.0,Probably Return,4
+220,Boomer,Unemployed,Diploma,Somewhat Loyal,4.0,4.666666666666667,3.0,3.8333333333333335,4.0,4.0,4.0,4.0,Probably Return,4
+221,Gen Z,Unemployed,Basic Education,Somewhat Unloyal,4.5,4.333333333333333,2.0,4.5,5.0,4.0,5.0,5.0,Will Return,5
+222,Boomer,Unemployed,No Formal Education,Somewhat Loyal,4.0,4.666666666666667,1.0,4.0,4.0,3.0,4.0,5.0,Will Return,5
+223,Gen X,Employed,Diploma,Unsure,3.5,3.6666666666666665,2.0,4.0,4.0,3.3333333333333335,3.3333333333333335,4.0,Probably Return,4
+224,Gen Z,Unemployed,Diploma,Somewhat Unloyal,4.25,4.333333333333333,2.0,4.0,4.0,3.6666666666666665,2.3333333333333335,3.5,Unsure,3
+225,Gen X,Employed,Basic Education,Completely Unloyal,4.5,4.0,1.0,3.6666666666666665,4.0,3.6666666666666665,3.0,4.0,Probably Return,4
+226,Gen Z,Unemployed,No Formal Education,Somewhat Loyal,3.0,3.3333333333333335,3.0,3.1666666666666665,2.75,3.3333333333333335,3.3333333333333335,4.0,Probably Return,4
+227,Gen Z,Employed,Diploma,Somewhat Loyal,3.25,3.6666666666666665,4.0,3.6666666666666665,3.0,2.8333333333333335,3.0,4.0,Probably Return,4
+228,Gen Z,Unemployed,Degree,Somewhat Loyal,3.5,3.0,3.5,3.0,3.5,3.3333333333333335,3.3333333333333335,5.0,Will Return,5
+229,Millenial,Employed,Basic Education,Somewhat Loyal,4.25,5.0,4.0,4.833333333333333,4.25,4.333333333333333,4.0,4.5,Probably Return,5
+230,Millenial,Unemployed,No Formal Education,Somewhat Loyal,4.5,4.0,5.0,4.5,4.75,4.666666666666667,4.0,5.0,Will Return,5
+231,Boomer,Employed,Basic Education,Somewhat Loyal,4.25,5.0,4.5,3.8333333333333335,4.5,4.5,4.333333333333333,5.0,Will Return,5
+232,Boomer,Unemployed,No Formal Education,Somewhat Unloyal,4.0,3.6666666666666665,2.0,4.333333333333333,4.0,3.1666666666666665,4.0,4.0,Will Return,5
+233,Gen X,Employed,Degree,Somewhat Loyal,5.0,5.0,4.0,5.0,5.0,5.0,4.0,4.5,Will Return,5
+234,Gen Z,Employed,Degree,Completely Unloyal,3.0,4.0,1.0,3.1666666666666665,3.0,3.0,3.3333333333333335,4.0,Probably Return,4
+235,Gen Z,Unemployed,Basic Education,Completely Loyal,5.0,5.0,5.0,4.0,4.0,5.0,4.0,4.0,Probably Return,4
+236,Gen Z,Unemployed,Basic Education,Unsure,3.75,5.0,3.0,5.0,5.0,5.0,2.3333333333333335,3.0,Unsure,3
+237,Gen X,Unemployed,Degree,Completely Unloyal,1.0,1.0,1.0,1.6666666666666667,1.0,1.0,1.0,1.5,No Return,1
+238,Gen Z,Employed,Degree,Completely Loyal,4.25,4.0,3.5,2.3333333333333335,2.5,2.3333333333333335,2.0,4.0,Probably Return,4
+239,Gen Z,Unemployed,No Formal Education,Somewhat Loyal,3.5,4.666666666666667,3.5,4.333333333333333,4.75,5.0,4.666666666666667,4.0,Probably Return,4
+240,Gen Z,Employed,Basic Education,Somewhat Loyal,3.75,4.666666666666667,4.0,4.166666666666667,4.75,4.666666666666667,4.333333333333333,4.0,Will Return,4
+241,Boomer,Employed,Basic Education,Somewhat Loyal,3.5,4.666666666666667,2.5,4.0,4.5,4.833333333333333,5.0,5.0,Will Return,5
+242,Gen Z,Unemployed,Basic Education,Completely Loyal,2.0,4.666666666666667,1.5,3.3333333333333335,4.5,4.166666666666667,4.333333333333333,5.0,Will Return,5
+243,Gen X,Employed,Diploma,Somewhat Unloyal,3.75,4.0,3.0,3.1666666666666665,3.25,3.8333333333333335,3.0,3.0,Probably Return,3
+244,Millenial,Employed,Basic Education,Somewhat Unloyal,3.25,3.3333333333333335,4.0,3.3333333333333335,3.0,2.5,2.6666666666666665,4.0,Unsure,4
+245,Gen X,Employed,Diploma,Somewhat Loyal,4.0,3.3333333333333335,4.0,3.3333333333333335,3.75,4.333333333333333,4.0,4.0,Probably Return,4
+246,Gen X,Employed,Diploma,Unsure,3.0,4.0,2.0,2.6666666666666665,3.75,3.0,3.3333333333333335,4.0,Probably Return,4
+247,Boomer,Unemployed,Basic Education,Somewhat Loyal,4.0,4.0,3.0,4.0,4.5,4.5,4.0,4.5,Probably Return,4
+248,Millenial,Unemployed,Basic Education,Completely Loyal,5.0,5.0,4.0,4.833333333333333,5.0,5.0,5.0,5.0,Will Return,5
+249,Gen Z,Employed,Basic Education,Somewhat Unloyal,2.75,3.0,2.5,2.3333333333333335,3.5,3.0,2.3333333333333335,3.0,Unsure,3
+250,Boomer,Unemployed,No Formal Education,Somewhat Loyal,4.5,4.333333333333333,3.0,4.333333333333333,5.0,4.333333333333333,4.0,4.0,Probably Return,4
+251,Gen Z,Unemployed,Basic Education,Completely Unloyal,2.75,4.333333333333333,1.5,2.8333333333333335,3.75,3.3333333333333335,3.0,1.5,No Return,2
+252,Gen Z,Unemployed,Basic Education,Completely Loyal,3.0,5.0,5.0,5.0,5.0,5.0,4.666666666666667,5.0,Will Return,5
+253,Gen Z,Unemployed,No Formal Education,Somewhat Unloyal,2.5,3.6666666666666665,5.0,3.5,4.25,3.5,3.6666666666666665,4.0,Probably Return,4
+254,Boomer,Unemployed,Basic Education,Somewhat Unloyal,3.5,4.333333333333333,3.0,4.333333333333333,3.75,3.5,3.3333333333333335,3.5,Probably Return,4
+255,Gen Z,Employed,Basic Education,Unsure,4.0,3.6666666666666665,3.5,3.1666666666666665,4.0,3.6666666666666665,3.6666666666666665,4.0,Probably Return,4
+256,Gen Z,Unemployed,Diploma,Somewhat Loyal,2.5,3.0,4.0,2.0,2.25,2.5,3.0,3.5,Probably Return,3
+257,Boomer,Employed,Basic Education,Somewhat Loyal,4.5,4.666666666666667,5.0,4.166666666666667,4.75,4.666666666666667,4.666666666666667,5.0,Will Return,5
+258,Boomer,Employed,Degree,Somewhat Loyal,3.0,4.0,2.5,3.1666666666666665,2.5,2.8333333333333335,2.3333333333333335,3.0,Unsure,3
+259,Gen Z,Employed,Basic Education,Completely Unloyal,2.0,2.6666666666666665,1.0,1.6666666666666667,1.75,1.1666666666666667,3.6666666666666665,4.0,Probably Return,4
+260,Gen Z,Employed,Diploma,Somewhat Loyal,3.0,3.3333333333333335,2.5,2.5,3.25,3.6666666666666665,4.0,4.0,Probably Return,4
+261,Boomer,Unemployed,No Formal Education,Somewhat Unloyal,4.0,3.6666666666666665,2.0,4.333333333333333,4.0,3.1666666666666665,4.0,4.0,Probably Return,4
+262,Gen Z,Unemployed,Basic Education,Somewhat Loyal,4.0,3.3333333333333335,1.5,2.5,1.5,4.166666666666667,2.0,2.5,Unsure,2
+263,Boomer,Employed,Diploma,Completely Unloyal,2.75,1.6666666666666667,1.0,2.8333333333333335,1.25,3.0,1.6666666666666667,2.0,Probably No Return,2
+264,Gen Z,Employed,Diploma,Somewhat Loyal,2.75,2.3333333333333335,1.5,2.6666666666666665,2.25,3.8333333333333335,2.0,3.0,Unsure,3
+265,Gen Z,Employed,Diploma,Unsure,4.0,2.3333333333333335,3.0,3.0,2.5,3.0,4.0,3.0,Probably No Return,3
+266,Gen X,Unemployed,No Formal Education,Completely Loyal,3.0,3.0,3.5,2.6666666666666665,3.0,3.3333333333333335,3.0,4.0,Probably Return,4
+267,Boomer,Unemployed,No Formal Education,Unsure,3.75,2.3333333333333335,3.5,3.3333333333333335,2.0,3.1666666666666665,2.0,4.0,Unsure,4
+268,Millenial,Unemployed,Diploma,Unsure,3.5,4.666666666666667,4.0,4.0,4.0,4.0,4.333333333333333,4.0,Probably Return,4
+269,Gen Z,Unemployed,Basic Education,Completely Unloyal,2.25,3.3333333333333335,2.0,2.3333333333333335,3.0,3.1666666666666665,3.0,2.0,Probably No Return,2
+270,Millenial,Employed,Degree,Somewhat Loyal,3.75,3.6666666666666665,3.5,2.6666666666666665,3.25,3.1666666666666665,3.6666666666666665,4.0,Probably Return,4
+271,Gen X,Employed,Degree,Somewhat Loyal,4.5,4.666666666666667,4.0,4.333333333333333,4.0,4.166666666666667,4.0,4.0,Probably Return,4
+272,Gen Z,Unemployed,Basic Education,Unsure,4.5,3.3333333333333335,3.5,3.8333333333333335,4.0,4.0,4.333333333333333,5.0,Will Return,5
+273,Gen X,Employed,Diploma,Unsure,4.75,4.333333333333333,4.0,4.5,4.0,4.5,4.333333333333333,5.0,Probably Return,5
+274,Gen Z,Unemployed,Basic Education,Completely Loyal,4.0,4.0,4.5,4.166666666666667,4.75,4.166666666666667,4.666666666666667,5.0,Will Return,5
+275,Gen Z,Unemployed,Basic Education,Completely Unloyal,2.75,5.0,2.5,3.6666666666666665,4.0,4.0,3.0,3.0,Probably No Return,3
+276,Millenial,Unemployed,Diploma,Unsure,2.5,4.0,3.0,3.5,3.0,2.3333333333333335,3.3333333333333335,4.0,Will Return,4
+277,Millenial,Employed,Basic Education,Somewhat Unloyal,3.25,3.3333333333333335,4.0,3.5,3.0,2.5,2.6666666666666665,4.0,Unsure,4
+278,Gen X,Employed,Diploma,Somewhat Loyal,4.0,3.3333333333333335,4.0,3.5,4.0,4.333333333333333,4.0,4.5,Will Return,5
+279,Boomer,Unemployed,Diploma,Unsure,3.0,4.0,2.0,2.8333333333333335,3.75,3.0,3.3333333333333335,4.0,Probably Return,4
+280,Boomer,Employed,Basic Education,Somewhat Loyal,5.0,4.0,3.0,4.166666666666667,4.75,4.5,4.0,4.5,Probably Return,5
