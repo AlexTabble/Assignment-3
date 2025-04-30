@@ -21,7 +21,9 @@ Sankey <- hchart(data_to_sankey(df),'sankey',name='Sankey for BL and Gen') |>
 hc_title(text='Generation to Retention by Brand Loyalty') |>
 hc_subtitle(text='Retention of generations based of response to brand loyalty') |>
 hc_caption(text='EDAB2714 Assignment 3')
+Sankey
+
 
 saveWidget(widget = Sankey,file = 'Sankey.html')
 
-webshot(url='Sankey.html',file = 'SankeyImage.png',delay = 30)
+webshot(url='Sankey.html',file = 'SankeyImage.png',delay = 10)
